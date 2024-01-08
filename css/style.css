@@ -1,0 +1,10 @@
+.customNavbar{
+	border-color: white;
+	border-width: 5px;
+}
+body{
+	background-color: grey;
+}
+.customButton{
+	color: #66b3ff;
+}
